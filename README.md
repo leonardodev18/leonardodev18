@@ -1,2 +1,15 @@
-# leonardodev18
- 
+<h1 align = "center"> Olá 👋, sou Leonardo Henrique de Andrade </h1>
+<h3 align = "center"> Um desenvolvedor móvel do Brasil </h3>
+
+<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=leonardodev18&label=Profile%20views&color=0e75b6&style=flat" alt = "leonardodev18" /> </p>
+
+- 🔭 Atualmente estou trabalhando no [Pago Rural] (http : //ruralpago.com/)
+
+
+<h3 align = "left"> Idiomas e ferramentas: </h3>
+<p align = "left"> <a href="https://developer.android.com" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/ icons / android / android-original-wordmark.svg "alt =" android "width =" 40 "height =" 40 "/> </a> <a href =" https://dart.dev "target =" _ em branco "> <img src =" https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg "alt =" dart "width =" 40 "height =" 40 "/> </a> <a href = "https://firebase.google.com/" target = "_ blank"> <img src = "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt = "firebase" largura = "40 "height =" 40 "/> </a> <a href="https://flutter.dev" target="_blank"> <img src =" https://www.vectorlogo.zone/logos/flutterio /flutterio-icon.svg "alt =" flutter "width =" 40 "height =" 40 "/> </a> <a href="https://git-scm.com/" target="_blank"> <img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt = "git" width = "40" height = "40" /> </a> <a href="https://kotlinlang.org" target="_blank"> <img src = "https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt = "kotlin" largura = "40" altura = "40 "/> </a> <a href="https://www.linux.org/" target="_blank"> <img src =" https://raw.githubusercontent.com/devicons/devicon/master /icons/linux/linux-original.svg "alt =" linux "width =" 40 "height =" 40 "/> </a> <a href =" https://www.mysql.com/ "target = "_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt = "mysql" width = "40" height = " 40 "/> </a> </p>com / devicons / devicon / master / icons / linux / linux-original.svg "alt =" linux "width =" 40 "height =" 40 "/> </a> <a href =" https: // www. mysql.com/ "target =" _ blank "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg "alt =" mysql "largura = "40" altura = "40" /> </a> </p>com / devicons / devicon / master / icons / linux / linux-original.svg "alt =" linux "width =" 40 "height =" 40 "/> </a> <a href =" https: // www. mysql.com/ "target =" _ blank "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg "alt =" mysql "largura = "40" altura = "40" /> </a> </p>alt = "mysql" width = "40" height = "40" /> </a> </p>alt = "mysql" width = "40" height = "40" /> </a> </p>
+
+<p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=leonardodev18&show_icons=true&locale=en&layout=compact" alt = "leonardodev18" /> </p>
+
+<p> & nbsp; <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=leonardodev18&show_icons=true&locale=en" alt = "leonardodev18" /> </p>
+
